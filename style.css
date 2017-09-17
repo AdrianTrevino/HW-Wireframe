@@ -1,0 +1,93 @@
+<style>
+
+h1 {
+	color: #ebebeb;
+	background-color: #777;
+}
+
+img {
+	float: right;
+	margin-top: 200px;
+	padding-left: 100px;
+
+}
+body {
+	width: 960px;
+	font-family: Arial, Helvetica Neue, Helvetica , sans-serif;
+	background-color: black;
+	font-size: 18px;
+}
+
+section {
+	width: 495px;
+	color: #ebebeb;
+	background-color: #777;
+	float: left;
+	margin-top: 100px;
+}
+
+footer {
+	color: #ebebeb;
+	background-color: #777;
+    margin-right: 50px;
+    float: left;
+    margin-top: 100px;
+    padding-left: 10px;
+    font-size: 10px;
+    width: 100px;
+}
+
+nav {
+	text-align: center;
+}
+
+
+
+.clearFix {
+	clear:both;
+	overflow:auto;
+	width: 100%;
+}
+
+.para1 {
+	margin: 20px;
+}
+
+.para2 {
+	margin: 20px;
+}
+
+.para3 {
+	margin: 20px;
+}
+
+.para4 {
+	margin: 20px;
+}
+
+.effect img.image {
+}
+
+.effect:hover img.image{
+display:none;
+}
+
+.effect img.hover{
+display:none;
+}
+
+.effect:hover img.hover{
+display:block;
+}
+
+
+
+
+
+
+
+
+
+
+
+</style>
